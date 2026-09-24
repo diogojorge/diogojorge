@@ -2,7 +2,7 @@
 
 ## Hi, everyone! Diogo, here. 👋
 
-[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/diogojorge/)](https://github.com/diogojorge/) [![Linkedin Badge](https://img.shields.io/badge/In%20LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/diogosjorge/)](https://www.linkedin.com/in/diogosjorge/) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/diogojorge)](https://dev.to/diogojorge)
+[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/diogojorge/)](https://github.com/diogojorge/) [![Linkedin Badge](https://img.shields.io/badge/in%20LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/diogosjorge/)](https://www.linkedin.com/in/diogosjorge/) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/diogojorge)](https://dev.to/diogojorge)
 
 I am a Software Developer and Senior Systems and Data Analyst with over 20 years of experience in technology and a strong background in the engineering, analysis, and implementation of large-scale enterprise systems. I have extensive experience in the implementation, configuration, and maintenance of mission-critical solutions process mapping, and requirements engineering.
 
